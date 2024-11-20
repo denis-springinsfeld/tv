@@ -81,7 +81,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="mx-auto max-w-6xl">
         <h1 className="mb-8 text-center text-4xl font-bold">
-          TV Series Info <img src="/logo.svg" alt="logo" />
+          TV Series Info <img src="./logo.svg" alt="logo" />
         </h1>
 
         <form onSubmit={handleSearch} className="mb-8 flex gap-2">
